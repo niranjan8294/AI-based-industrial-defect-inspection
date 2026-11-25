@@ -1,6 +1,5 @@
 # Towards Total Recall in Industrial Anomaly Detection
 
-This repository contains the implementation for `PatchCore` as proposed in Roth et al. (2021), <https://arxiv.org/abs/2106.08265>.
 
 It also provides various pretrained models that can achieve up to _99.6%_ image-level anomaly
 detection AUROC, _98.4%_ pixel-level anomaly localization AUROC and _>95%_ PRO score (although the
